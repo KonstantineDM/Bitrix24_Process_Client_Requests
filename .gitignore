@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#User dirs
+b24_venv/
+
+# User files (development helpers)
+pseudocode.txt
+task.txt
+test_queries.py
+bitrix24_methods.py
